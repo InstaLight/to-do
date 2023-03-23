@@ -1,4 +1,4 @@
 # to-do
 Simple command line todo list written in python
-Use todo.bat to run if on windows
-use todo.sh if on a Linux system
+<br/>Use todo.bat to run if on windows
+<br/>use todo.sh if on a Linux system
