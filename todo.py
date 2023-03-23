@@ -1,4 +1,4 @@
-# Complete code
+
 import sys
 import datetime
  
